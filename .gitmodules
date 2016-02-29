@@ -1,3 +1,7 @@
 [submodule "themes/redlounge"]
 	path = themes/redlounge
 	url = https://github.com/tmaiaroto/hugo-redlounge.git
+[submodule "public"]
+	path = public
+	url = git@github.com:starnux/starnux.github.io.git
+	branch = master
