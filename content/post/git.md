@@ -1,6 +1,6 @@
 +++
-date = "2016-02-29T11:30:10+01:00"
-draft = true
+date = "2016-02-29T15:42:11+01:00"
+draft = false
 title = "GIT, GIT, … GIT !"
 
 +++
