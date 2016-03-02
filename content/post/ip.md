@@ -12,7 +12,7 @@ Starnux.net offer a very simple service :
 http://ip.starnux.net
 <!--more-->
 
-That prints the current IP addresse you are using :
+That prints the current IP adress you are using :
 
 ````
 Votre adresse IP est 91.64.244.31
@@ -32,7 +32,7 @@ http://ip.starnux.net/json.php
 { "ip": "91.64.244.31", "protocol": "IPv4" }
 ```
 
-And even force the IPv6 address at :
+And even force the IPv6 adress at :
 
 http://ip6.starnux.net
 
