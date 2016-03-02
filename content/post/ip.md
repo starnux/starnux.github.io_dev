@@ -3,8 +3,7 @@ Categories = ["Development", "ip"]
 Description = ""
 Tags = ["Development", "ipv4", "ipv6"]
 date = "2016-03-01T09:49:01+01:00"
-menu = "main"
-title = "IP Adress discovery service"
+title = "IP Address discovery service"
 
 +++
 Starnux.net offer a very simple service :
@@ -12,7 +11,7 @@ Starnux.net offer a very simple service :
 http://ip.starnux.net
 <!--more-->
 
-That prints the current IP adress you are using :
+That prints the current IP address you are using :
 
 ````
 Votre adresse IP est 91.64.244.31
@@ -32,7 +31,7 @@ http://ip.starnux.net/json.php
 { "ip": "91.64.244.31", "protocol": "IPv4" }
 ```
 
-And even force the IPv6 adress at :
+And even force the IPv6 address at :
 
 http://ip6.starnux.net
 

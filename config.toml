@@ -6,3 +6,16 @@ theme = "redlounge"
 [params]
 	sidebartitle = "Starnux.net"
 	sidebartagline = "Home of Code"
+	author = "Neil 'Superna' Armstrong"
+	authorlink = "http://github.com/superna9999"
+	socialsharing = true
+
+
+[[menu.social]]
+    pre = "<img src=\"github.png\" style=\"width: 30%; height: 30%\"/>"
+    identifier = "github"
+    url = "http://github.com/starnux"
+
+[[menu.footer]]
+    name = "CC BY-SA"
+    url = "http://creativecommons.org/licenses/by-sa/3.0/deed"
